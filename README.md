@@ -7,9 +7,8 @@ AsmMix is capable of producing both contiguous and accurate diploid genomes. It 
 
 ## Citing AsmMix
 If you use AsmMix in your work, please cite:
-[AsmMix: A pipeline for high-quality diploid de novo assembly](https://www.biorxiv.org/content/10.1101/2021.01.15.426893v1)
-Pei Wu, Chao Liu, Ou Wang, Xia Zhao, Fang Chen, Xiaofang Cheng, Hongmei Zhu
-doi: https://doi.org/10.1101/2021.01.15.426893
+[AsmMix: an efficient haplotype-resolved hybrid de novo genome assembling pipeline]([https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1421565/full])
+Liu C, Wu P, Wu X, Zhao X, Chen F, Cheng X, Zhu H, Wang O and Xu M (2024) Front. Genet. 15:1421565. doi: 10.3389/fgene.2024.1421565
 
 
 ## Dependencies
